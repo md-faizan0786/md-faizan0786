@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Md Faizan
-**CSE Student || MERN Stack Developer ||Java + DSA **
+**CSE Student || MERN Stack Developer || Java + DSA **
 - 🔭 **I’m currently working on:** Stock Trading
 - 🌱 **I’m currently learning:** Java + DSA
 
@@ -22,9 +22,6 @@ Email Me 👉 ✉️ **faizan907434@gmail.com** For Internship/Job. 😊😊
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=md-faizan0786&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=md-faizan0786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
